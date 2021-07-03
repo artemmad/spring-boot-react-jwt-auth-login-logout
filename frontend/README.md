@@ -1,6 +1,6 @@
 Front Code is same as the Basic Authentication Example except for a small change.
 
-This is an extract from `class LoginComponent extends Component {` in the frontend project for [Basic Authentication](https://github.com/in28minutes/spring-boot-react-fullstack-examples/tree/master/spring-boot-react-basic-auth-login-logout/frontend-spring-boot-react-basic-auth-login-logout)
+This is an extract from `class LoginComponent extends Component {` in the frontend project for Basic Authentication
 
 ```
         AuthenticationService
